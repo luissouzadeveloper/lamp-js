@@ -1,0 +1,16 @@
+body{
+    background-color: lightgray;
+}
+header, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    margin: 15px;
+}
+
+button{
+    width: 70px;
+}
